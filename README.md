@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @AstridC42
-- 👀 I’m interested in learning stuff 
-- 🌱 I’m currently learning linux 
-- 💞️ I’m looking to collaborate on "TBA"
-- 📫 How to reach me: Twitter - oka56_
-- ⚡ Fun fact: facts are fun
+
+  So i'm new here and I currently moving to linux and learning linux.
+  I here for learn and try stuff
+  Hope it's gonna be fun! 😁
 
 <!---
 AstridC42/AstridC42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
